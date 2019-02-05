@@ -1,2 +1,2 @@
 # best-repository-ever
-Test the repository
+Test the repositories.
